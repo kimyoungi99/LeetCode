@@ -6,4 +6,4 @@
 
 | # | 문제 | 정답 | 아이디어 |
 |---| ----- | -------- | --------------------- |
-| 1 | [palindrome-number](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/009_palindrome-number.java) | 1. 스트링으로 변환 후 뒤집에서 비교|
+| 9 | [palindrome-number](https://leetcode.com/problems/palindrome-number/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/009_palindrome-number.java) | 1. 스트링으로 변환 후 뒤집에서 비교|
