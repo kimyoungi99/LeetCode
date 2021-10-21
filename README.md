@@ -3,7 +3,7 @@
 리트코드에서 해결한 문제 정리
 
 ## 문제 / 풀이
-
+`*`의 경우 개선해야 함
 | # | 문제 | 정답 | 정리 |
 |---| ----- | -------- | --------------------- |
 | 1 | [two-sum](https://leetcode.com/problems/two-sum/) | [Java (Easy)](https://github.com/kimyoungi99/LeetCode/blob/main/java/001_two-sum(naive).java)<br>[Java (Hard)](https://github.com/kimyoungi99/LeetCode/blob/main/java/001_two-sum.java)| 1. 완전탐색의 경우 O(n^2)<br>2. 해쉬 맵 을 활용하여 숫자를 찾는 방식으로 O(n)에 구현 가능|
@@ -13,4 +13,4 @@
 | 9 | [palindrome-number](https://leetcode.com/problems/palindrome-number/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/009_palindrome-number.java) | 1. 스트링으로 변환 후 뒤집에서 비교|
 | 10 | [regular-expression-matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/010_regular-expression-matching.java) | 1. dfs/백트래킹을 활용
 | 11 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/011_container-with-most-water.java)| 1. 투 포인터 알고리즘<br>2. 양 끝에서 더 낮은 벽을 줄여오는 방식으로 탐색|
-| 12 | [integer-to-roman/](https://leetcode.com/problems/integer-to-roman/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/012_integer-to-roman.java)| 1. 규칙 & 재귀함수를 활용<br>2. 배열을 활용하여 단위별로 나누면 더 좋은 코드가 나올 것 같다.|
+| 12 | [integer-to-roman/](https://leetcode.com/problems/integer-to-roman/) | [Java*](https://github.com/kimyoungi99/LeetCode/blob/main/java/012_integer-to-roman.java)| 1. 규칙 & 재귀함수를 활용
