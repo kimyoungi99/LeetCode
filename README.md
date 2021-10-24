@@ -15,3 +15,4 @@
 | 11 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/011_container-with-most-water.java)| 1. 투 포인터 알고리즘<br>2. 양 끝에서 더 낮은 벽을 줄여오는 방식으로 탐색|
 | 12 | [integer-to-roman](https://leetcode.com/problems/integer-to-roman/) | [Java*](https://github.com/kimyoungi99/LeetCode/blob/main/java/012_integer-to-roman.java)| 1. 규칙 & 재귀함수를 활용
 | 13 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/013_roman-to-integer.java)| 1. 심볼 가치가 큰 순서대로 비교하며 반복
+| 14 | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/014_longest-common-prefix.java)| 1. 각 스트링에 글자들을 비교하여 구함 
