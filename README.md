@@ -19,8 +19,8 @@
 | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/015_3sum.java)| - 정렬 후 첫 숫자를 정한 뒤 투 포인터 알고리즘.<br> - O(n^2)
 | 16 | [3sum-closest](https://leetcode.com/problems/3sum-closest/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/016_3sum-closest.java)| - 15번과 동일
 | 17 | [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/017_letter-combinations-of-a-phone-number.java)| - dfs를 활용하여 완전탐색<br> - O(4^n)
-| 18 | [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/018_4sum.java)| - 정렬 후 두 숫자를 정하고 투 포인터 알고리즘을 사용<br> - 해쉬맵을 활용하여 중복 체크
-| 19 | [4sum](https://leetcode.com/problems/4sum/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/019_remove-nth-node-from-end-of-list.java)| - 링크드 리스트의 길이 계산 후 삭제
+| 18 | [4sum](https://leetcode.com/problems/4sum/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/018_4sum.java)| - 정렬 후 두 숫자를 정하고 투 포인터 알고리즘을 사용<br> - 해쉬맵을 활용하여 중복 체크
+| 19 | [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/019_remove-nth-node-from-end-of-list.java)| - 링크드 리스트의 길이 계산 후 
 
 
 # 프로그래머스 문제 정리
