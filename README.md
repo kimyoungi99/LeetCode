@@ -11,7 +11,7 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/003_longest-substring-without-repeating-characters.java) | - 투 포인터 알고리즘|
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/008_string-to-integer-atoi.java) | - 주어진 알고리즘을 그대로 구현<br> - int자료형의 오버플로우를 고려하여 스트링 상태에서 숫자의 크기를 비교|
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/009_palindrome-number.java) | - 스트링으로 변환 후 뒤집에서 비교|
-| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/010_regular-expression-matching.java) | - dfs/백트래킹을 활용
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/010_regular-expression-matching.java) | - dfs/백트래킹 활용
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/011_container-with-most-water.java)| - 투 포인터 알고리즘<br> - 양 끝에서 더 낮은 벽을 줄여오는 방식으로 탐색|
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java*](https://github.com/kimyoungi99/LeetCode/blob/main/java/012_integer-to-roman.java)| - 규칙 & 재귀함수를 활용
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/013_roman-to-integer.java)| - 심볼 가치가 큰 순서대로 비교하며 반복
@@ -22,6 +22,8 @@
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/018_4sum.java)| - 정렬 후 두 숫자를 정하고 투 포인터 알고리즘을 사용<br> - 해쉬맵을 활용하여 중복 체크
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/019_remove-nth-node-from-end-of-list.java)| - 링크드 리스트의 길이 계산 후
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/020_valid-parentheses.java)| - 스택을 활용하여 유효성 체크
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/021_merge-two-sorted-lists.java)| - 새 링크드 리스트 생성 후 두 리스트의 해드를 비교하며 붙임
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/022_generate-parentheses.java)| - dfs/백트래킹 활용
 
 
 # 프로그래머스 문제 정리
