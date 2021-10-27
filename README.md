@@ -19,11 +19,12 @@
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/015_3sum.java)| - 정렬 후 첫 숫자를 정한 뒤 투 포인터 알고리즘.<br> - O(n^2)
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/016_3sum-closest.java)| - 15번과 동일
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/017_letter-combinations-of-a-phone-number.java)| - dfs를 활용하여 완전탐색<br> - O(4^n)
-| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/018_4sum.java)| - 정렬 후 두 숫자를 정하고 투 포인터 알고리즘을 사용<br> - 해쉬맵을 활용하여 중복 체크
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/018_4sum.java)| - 정렬 후 두 숫자를 투 포인터 알고리즘을 사용<br> - 해쉬맵을 활용하여 중복 체크
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/019_remove-nth-node-from-end-of-list.java)| - 링크드 리스트의 길이 계산 후
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/020_valid-parentheses.java)| - 스택을 활용하여 유효성 체크
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/021_merge-two-sorted-lists.java)| - 새 링크드 리스트 생성 후 두 리스트의 해드를 비교하며 붙임
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/022_generate-parentheses.java)| - dfs/백트래킹 활용
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/023_merge-k-sorted-lists.java)| - dfs/백트래킹 활용
 
 
 # 프로그래머스 문제 정리
