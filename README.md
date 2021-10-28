@@ -38,3 +38,4 @@
 | ----- | -------- | --------------------- |---|
 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/programmers/java/멀쩡한_사각형.java)| - gcd를 활용한 수학 문제 | lv2 |
 | [[1차] 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/programmers/java/[1차]_셔틀버스.java)| - 콘의 출근 시간을 분 단위별로 가능 여부를 모두 계산해 본다 | lv3 |
+| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/programmers/java/124_나라의_숫자.java)| - 3진법을 계산하듯 계산하며 3으로 나누어 떨어지는 경우 1을 빼준다 | lv2 |
