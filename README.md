@@ -28,6 +28,7 @@
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/024_swap-nodes-in-pairs.java)| - 링크드 리스트를 따라가며 2 노드씩 바꿈
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/025_reverse-nodes-in-k-group.java)| - 3개의 포인터를 유지하며 링크드 리스트를 뒤집는다
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/026_remove-duplicates-from-sorted-array.java)| - 공간복잡도를 O(1)로 하기 위해 배열을 탐색하던 도중 중복이 발생하면 한칸 씩 앞으로 옮김
+| 26 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/027_remove-element.java)| - 공간복잡도를 O(1)로 하기 위해 배열을 탐색하며 일치하면 한칸 씩 앞으로 옮김
 
 
 # 프로그래머스 문제 정리
