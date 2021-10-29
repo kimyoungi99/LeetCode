@@ -26,6 +26,8 @@
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/022_generate-parentheses.java)| - dfs/백트래킹 활용
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/023_merge-k-sorted-lists.java)| - 21과 원리 비슷<br>리스트들 중 가장 작은 수를 붙임
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/024_swap-nodes-in-pairs.java)| - 링크드 리스트를 따라가며 2 노드씩 바꿈
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/025_reverse-nodes-in-k-group.java)| - 3개의 포인터를 유지하며 링크드 리스트를 뒤집는다
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/026_remove-duplicates-from-sorted-array.java)| - 공간복잡도를 O(1)로 하기 위해 배열을 탐색하던 도중 중복이 발생하면 한칸 씩 앞으로 옮김
 
 
 # 프로그래머스 문제 정리
