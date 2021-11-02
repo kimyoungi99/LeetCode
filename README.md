@@ -31,6 +31,8 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/027_remove-element.java)| - 공간복잡도를 O(1)로 하기 위해 배열을 탐색하며 일치하면 한칸 씩 앞으로 옮김
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/028_implement-strstr.java)| - substring을 구하여 비교한다
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/030_substring-with-concatenation-of-all-words.java)| - 해쉬 맵을 활용하여 각 word의 개수를 미리 저장한 뒤, 스트링을 탐색하며 매치를 찾는다
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/031_next-permutation.java)| - 공간복잡도를 O(1)로 하기 위해 순열의 성질을 활용한다
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/032_longest-valid-parentheses.java)| - 스택을 활용하여 최대길이를 구한다<br>- 시간 복잡도 : O(n)
 
 # 프로그래머스 문제 정리
 
