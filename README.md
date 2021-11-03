@@ -33,6 +33,7 @@
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/030_substring-with-concatenation-of-all-words.java)| - 해쉬 맵을 활용하여 각 word의 개수를 미리 저장한 뒤, 스트링을 탐색하며 매치를 찾는다
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/031_next-permutation.java)| - 공간복잡도를 O(1)로 하기 위해 순열의 성질을 활용한다
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/032_longest-valid-parentheses.java)| - 스택을 활용하여 최대길이를 구한다<br>- 시간 복잡도 : O(n)
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/033_search-in-rotated-sorted-array.java)| - 이진탐색의 원리를 활용하여 정렬된 배열의 상태에 따라 경우의 수를 나누어구한다
 
 # 프로그래머스 문제 정리
 
