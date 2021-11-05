@@ -35,6 +35,7 @@
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/032_longest-valid-parentheses.java)| - 스택을 활용하여 최대길이를 구한다<br>- 시간 복잡도 : O(n)
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/033_search-in-rotated-sorted-array.java)| - 이진탐색의 원리를 활용하여 정렬된 배열의 상태에 따라 경우의 수를 나누어구한다
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/034_find-first-and-last-position-of-element-in-sorted-array.java)| - 시간복잡도를 O(log(n))으로 만들기 위해 이진탐색을 두번 진행하여 target의 앞과 뒤를 찾는다
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/035_search-insert-position.java)| - 이진탐색을 활용하여 원소를 찾는다
 
 # 프로그래머스 문제 정리
 
