@@ -29,13 +29,14 @@
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/025_reverse-nodes-in-k-group.java)| - 3개의 포인터를 유지하며 링크드 리스트를 뒤집는다
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/026_remove-duplicates-from-sorted-array.java)| - 공간복잡도를 O(1)로 하기 위해 배열을 탐색하던 도중 중복이 발생하면 한칸 씩 앞으로 옮김
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/027_remove-element.java)| - 공간복잡도를 O(1)로 하기 위해 배열을 탐색하며 일치하면 한칸 씩 앞으로 옮김
-| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/028_implement-strstr.java)| - substring을 구하여 비교한다
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/028_implement-strstr.java)| - substring을 구하여 비교
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/030_substring-with-concatenation-of-all-words.java)| - 해쉬 맵을 활용하여 각 word의 개수를 미리 저장한 뒤, 스트링을 탐색하며 매치를 찾는다
-| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/031_next-permutation.java)| - 공간복잡도를 O(1)로 하기 위해 순열의 성질을 활용한다
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/031_next-permutation.java)| - 공간복잡도를 O(1)로 하기 위해 순열의 성질을 활용
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/032_longest-valid-parentheses.java)| - 스택을 활용하여 최대길이를 구한다<br>- 시간 복잡도 : O(n)
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/033_search-in-rotated-sorted-array.java)| - 이진탐색의 원리를 활용하여 정렬된 배열의 상태에 따라 경우의 수를 나누어구한다
-| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/034_find-first-and-last-position-of-element-in-sorted-array.java)| - 시간복잡도를 O(log(n))으로 만들기 위해 이진탐색을 두번 진행하여 target의 앞과 뒤를 찾는다
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/035_search-insert-position.java)| - 이진탐색을 활용하여 원소를 찾는다
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/034_find-first-and-last-position-of-element-in-sorted-array.java)| - 시간복잡도를 O(log(n))으로 만들기 위해 이진탐색을 두번 진행하여 target의 앞과 뒤를 찾음
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/035_search-insert-position.java)| - 이진탐색 활용
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/036_valid-sudoku.java)| - 주어진 룰대로 반복하며 행, 열, sub-box를 확인
 
 # 프로그래머스 문제 정리
 
