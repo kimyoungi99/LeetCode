@@ -37,6 +37,7 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/034_find-first-and-last-position-of-element-in-sorted-array.java)| - 시간복잡도를 O(log(n))으로 만들기 위해 이진탐색을 두번 진행하여 target의 앞과 뒤를 찾음
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/035_search-insert-position.java)| - 이진탐색 활용
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/036_valid-sudoku.java)| - 주어진 룰대로 반복하며 행, 열, sub-box를 확인
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/037_sudoku-solver.java)| - dfs/백트래킹을 활용<br>- 현재 위치에서 가능한 숫자들을 계산하고 탐색
 
 # 프로그래머스 문제 정리
 
