@@ -38,6 +38,7 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/035_search-insert-position.java)| - 이진탐색 활용
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/036_valid-sudoku.java)| - 주어진 룰대로 반복하며 행, 열, sub-box를 확인
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/037_sudoku-solver.java)| - dfs/백트래킹을 활용<br>- 현재 위치에서 가능한 숫자들을 계산하고 탐색
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/038_count-and-say.java)| - 재귀 방식으로 해결
 
 # 프로그래머스 문제 정리
 
