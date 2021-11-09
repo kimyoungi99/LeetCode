@@ -6,6 +6,7 @@ class Solution {
     }
     
     public void dfs(int[] candidates, int target, List<Integer> cur, int index, List<List<Integer>> answer) {
+        List<Integer> temp = new ArrayList<>(cur);
         if(getSum(temp) == target) {
             answer.add(temp);
         }
