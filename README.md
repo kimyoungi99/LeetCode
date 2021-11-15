@@ -40,6 +40,7 @@
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/037_sudoku-solver.java)| - dfs/백트래킹을 활용<br>- 현재 위치에서 가능한 숫자들을 계산하고 탐색
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/038_count-and-say.java)| - 재귀 방식으로 해결
 | 39 | [Combination Sum](https://leetcode.com/problems/039_combination-sum/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/039_combination-sum.java)| - dfs/백트래킹을 활용
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/040_combination-sum-ii.java)| - dfs/백트래킹을 활용<br>- 중복 제거를 위해 Set 사용
 # 프로그래머스 문제 정리
 
 프로그래머스에서 해결한 문제 정리
