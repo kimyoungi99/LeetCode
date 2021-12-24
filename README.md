@@ -55,3 +55,4 @@
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/programmers/java/124_나라의_숫자.java)| - 3진법을 계산하듯 계산하며 3으로 나누어 떨어지는 경우 1을 빼준다 | lv2 |
 | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/programmers/java/[1차]_뉴스_클러스터링.java)| - 두 스트링에 대한 map을 생성하여 각 원소의 개수를 계산한 뒤 합집합, 교집합의 크기를 구한다 | lv2 |
 | [[1차] 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/programmers/java/[1차]_셔틀버스.java)| - 콘의 출근 시간을 분 단위별로 가능 여부를 모두 계산해 본다 | lv3 |
+| [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/17678) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/programmers/java/자물쇠와_열쇠.java)| - 가능한 모든 열쇠 - 키 조합에 대해 확인한다. | lv3 |
