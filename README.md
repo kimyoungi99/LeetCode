@@ -57,3 +57,12 @@
 | [[1차] 셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/programmers/java/[1차]_셔틀버스.java)| - 콘의 출근 시간을 분 단위별로 가능 여부를 모두 계산해 본다 | lv3 |
 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/17678) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/programmers/java/자물쇠와_열쇠.java)| - 가능한 모든 열쇠 - 키 조합에 대해 확인한다. | lv3 |
 | [[1차] 추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) | [Java*](https://github.com/kimyoungi99/LeetCode/blob/main/programmers/java/[1차]_추석_트래픽.java)| - 스트링을 처리 시작시간, 종료 시간으로 파싱 후 가능한 조합을 모두 비교한다. | lv3 |
+
+# 백준 문제 정리
+
+백준에서 해결한 문제 정리
+
+## 문제 / 풀이
+| 문제 | 정답 | 정리 |
+| ----- | -------- | --------------------- |
+| [13168](https://www.acmicpc.net/problem/13168) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/baekjoon/java/13168.java)| - 이진 탐색, 해싱 |
