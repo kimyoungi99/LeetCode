@@ -43,7 +43,9 @@
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/040_combination-sum-ii.java)| - dfs/백트래킹을 활용<br>- 중복 제거를 위해 Set 사용
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/043_multiply-strings.java)| - 한 글자씩 정수로 변환하여 계산하는 곱셈, 덧셈 함수 구현
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/045_jump-game-ii.java)| - dp 활용<br>- O(n * m)
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/048_rotate-image.java)| - (i, j) -> (j, (n - 1) - i)
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/java/049_group-anagrams.java)| - 단어의 구성 알파벳을 키로 활용<br> - 해싱하여 분리
+
 
 # 프로그래머스 문제 정리
 
