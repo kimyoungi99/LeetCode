@@ -71,3 +71,12 @@
 | ----- | -------- | --------------------- |
 | [13168](https://www.acmicpc.net/problem/13168) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/baekjoon/java/13168.java)| - 이진 탐색, 해싱 |
 | [11066](https://www.acmicpc.net/problem/11066) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/baekjoon/java/11066.java)| - 다이나믹 프로그래밍<br> - O(n^3), dp[i][j] = min{ dp[i][k] + dp[k][j] } |
+
+# 코드 포스 문제 정리 
+
+코포 문제 정리
+
+## 문제 / 풀이
+| 문제 | 정답 | 정리 |
+| ----- | -------- | --------------------- |
+| [1690B](https://codeforces.com/contest/1690/problem/B) | [Java](https://github.com/kimyoungi99/LeetCode/blob/main/codeforces/java/1690B.java)| - 단순 구현 문제 |
